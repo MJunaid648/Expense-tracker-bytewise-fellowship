@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Junaid</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
 
-- 🔭 I’m currently working on an **react-expense-tracker-app**
+- 🔭 I’m currently working on an **fellowship at Bytewise**
 
 - 🌱 I’m currently learning **MERN stack development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MJunaid648](https://github.com/MJunaid648)
+
+- 💬 Libraries used: **styled-components, react-scripts**
 
 - 📫 How to reach me **648mjunaid@gmail.com**
 
